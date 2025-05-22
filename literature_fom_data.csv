@@ -1,0 +1,5 @@
+Model	Accuracy	fsample [Hz]	Btime [hr]	FoM
+Crafa	4	66	7.0	1668255.3
+Zhou	1	120	825	356400000.0
+Mastrangelo	1	100	0.471428571	169714.3
+Li	2.6	400	20.625	29700000.0
